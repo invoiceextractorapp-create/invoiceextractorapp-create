@@ -6,6 +6,8 @@ I’ve built and deployed a full-stack SaaS product from idea to production, wor
 
 🚀 Featured Project — Invoice Trust
 
+<img width="2560" height="1600" alt="Image 05-11-2026 at 18 21" src="https://github.com/user-attachments/assets/5601d2e6-adbf-470d-b136-baaa67c45a55" />
+
 Invoice Trust is a full-stack SaaS application for AI-assisted invoice processing and exception review.
 
 I designed, built, deployed, and continue to maintain the application end-to-end.
