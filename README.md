@@ -1,21 +1,52 @@
-# Hi, I'm Gabor 👋
+Hi, I’m Gabor 👋
 
-I'm a technically curious problem-solver with hands-on experience building and supporting web applications.
+I’m a technically curious builder and problem-solver focused on SaaS applications, debugging, integrations, and production reliability.
 
-My recent work has involved taking a SaaS product from idea to a deployed application, including troubleshooting issues across the frontend, backend, APIs, database, and deployment environment.
+I’ve built and deployed a full-stack SaaS product from idea to production, working across frontend, backend, authentication, databases, AI integrations, deployment, and troubleshooting.
 
-### What I've worked with
+🚀 Featured Project — Invoice Trust
 
-- Next.js / JavaScript / TypeScript
-- Supabase / PostgreSQL
-- SQL and database troubleshooting
-- REST APIs and integrations
-- Vercel deployment and debugging
-- Git / GitHub
-- AI-assisted development workflows
+Invoice Trust is a full-stack SaaS application for AI-assisted invoice processing and exception review.
 
-### What I enjoy
+I designed, built, deployed, and continue to maintain the application end-to-end.
 
-I enjoy investigating why something isn't working, breaking problems into smaller pieces, finding the root cause, and turning the solution into something clear and useful.
+What I built
 
-I'm particularly interested in technical support, application support, SaaS products, and roles where I can keep developing my technical knowledge while helping users solve real problems.
+* PDF invoice upload and processing
+* AI-powered structured data extraction
+* Automated validation and exception detection
+* Review and verification workflows
+* Duplicate detection
+* Supplier intelligence
+* Secure authentication and protected application routes
+* PostgreSQL database and private file storage
+* Production deployment and debugging
+
+Tech stack
+
+Next.js · React · TypeScript · Supabase · PostgreSQL · OpenAI API · Vercel · Git/GitHub
+
+The application is deployed and working in production. The production source repository remains private.
+
+⸻
+
+🛠 What I work with
+
+* Next.js / React / TypeScript
+* Supabase / PostgreSQL
+* Authentication and access control
+* REST APIs and third-party integrations
+* OpenAI API and AI-assisted workflows
+* SQL and database troubleshooting
+* Vercel deployment and production debugging
+* Git / GitHub
+
+🔍 How I approach problems
+
+I prefer evidence-driven debugging over speculative changes:
+
+Observe → isolate → compare → explain → change → verify
+
+I reproduce the problem, identify the failing boundary, inspect the available evidence, make one controlled change at a time, and verify the result.
+
+I’m particularly interested in fixing existing SaaS applications, authentication and integration problems, production issues, and taking unfinished products toward reliable deployment.
